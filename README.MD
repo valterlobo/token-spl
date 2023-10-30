@@ -1,9 +1,10 @@
 
-# TOKEN SOLANA 
+# SOLANA SPL-TOKEN
 
+ ```
+npm install 
+ ```
+ 
+Não é necessário ser um desenvolvedor Rust para criar uma token na Solana. Você pode usar JavaScript e a biblioteca padrão SPL-TOKEN para criar tokens, realizar transferências e executar diversas operações na rede Solana.
 
-$ npm run-script airdrop
-
-
-
-5UrFA561HSuuoCinwKyL6ov1m1T5oiwLKxyiymovs4W4
+### [Desenvolvendo um Token na Blockchain Solana com JavaScript](https://dev.to/valterlobo/desenvolvendo-um-token-na-blockchain-solana-com-javascript-k3f)
